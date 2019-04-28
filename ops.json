@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "65f94ee8-8fbd-4f82-ab9f-788c40cb2c97",
+    "name": "IPegTheFirstDate",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ab32c1b4-e144-4bd0-b552-f6474e58ce4d",
+    "name": "TableFlip",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
